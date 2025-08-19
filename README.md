@@ -36,7 +36,9 @@ Built using **Power BI Desktop**, the report provides insights into revenue, occ
 ---
 
 ## 📷 Dashboard Preview
- 
+<img width="1161" height="666" alt="Screenshot 2025-08-17 181553" src="https://github.com/user-attachments/assets/b5ff62f1-c561-481a-8b2f-51181461d0e7" />
+ <img width="1151" height="647" alt="Screenshot 2025-08-17 181614" src="https://github.com/user-attachments/assets/37c251e2-99ad-4cb8-8f63-dc568ecbe5df" />
+
 <img width="1154" height="647" alt="Screenshot 2025-08-17 181642" src="https://github.com/user-attachments/assets/d5bd9231-b12e-4795-accf-47e22ac3b49c" />
 
 ---
